@@ -170,7 +170,6 @@ ImageView add, sub, multiply, divide, back, one, two, three, four, five, six, se
                 operations.setText(data+"0");
             }
         });
-
     }
 
 
