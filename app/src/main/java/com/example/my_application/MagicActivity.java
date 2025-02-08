@@ -16,6 +16,6 @@ public class MagicActivity extends AppCompatActivity {
          toolbar = findViewById(R.id.magicTool);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+       
     }
 }
